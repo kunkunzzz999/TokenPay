@@ -1,4 +1,4 @@
-wget -O https://github.com/LightCountry/TokenPay/releases/download/v1.0.6.5/linux-x64.zip
+wget -O https://github.com/LightCountry/TokenPay/releases/download/v1.0.7.3/linux-x64.zip
 
 unzip -o linux-x64.zip
 
